@@ -6,7 +6,6 @@
 
 <img src="https://img.shields.io/badge/Bachelor-Engineering-brightgreen"/>
 <img src="https://img.shields.io/badge/Master-Engineering-brightgreen"/>
-<img src="https://img.shields.io/badge/AtCoder-1607-blue"/>
 <img src="https://img.shields.io/badge/Job-Front--end%20Engineer-brightgreen"/>
 <img src="https://img.shields.io/badge/Role-Tech%20Lead-brightgreen"/>
 
