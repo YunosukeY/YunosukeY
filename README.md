@@ -1,6 +1,12 @@
+<div align="center">
+
 ![](https://img.shields.io/badge/Bachelor-Engineering-brightgreen)
 ![](https://img.shields.io/badge/Master-Engineering-brightgreen)
 ![](https://img.shields.io/badge/AtCoder-1607-blue)
+![](https://img.shields.io/badge/Job-Front--end%20Engineer-brightgreen)
+![](https://img.shields.io/badge/Role-Tech%20Lead-brightgreen)
+
+</div>
 
 ## LINKS
 - Twitter - [@east_k1mitsu](https://twitter.com/east_k1mitsu)
