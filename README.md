@@ -8,12 +8,32 @@
 <img src="https://img.shields.io/badge/Master-Engineering-brightgreen"/>
 <img src="https://img.shields.io/badge/Job-Front--end%20Engineer-brightgreen"/>
 <img src="https://img.shields.io/badge/Role-Tech%20Lead-brightgreen"/>
+<br/>
+<br/>
 
-<h2>For more details</h2>
-Twitter：<a href="https://twitter.com/east_k1mitsu">@east_k1mitsu</a><br/>
-Zenn：<a href="https://zenn.dev/kimitsu">kimitsu</a><br/>
-SlideShare：<a href="https://www.slideshare.net/ssusera7cea3">ssusera7cea3</a><br/>
-AtCoder：<a href="https://atcoder.jp/users/kimitsu_emt">kimitsu_emt</a><br/>
-HatenaBlog：<a href="http://dayama-kimitsu.hatenablog.com">kimitsu’s blog</a>
+<table border="0">
+  <tbody>
+    <tr>
+      <td>Twitter</td>
+      <td><a href="https://twitter.com/east_k1mitsu">@east_k1mitsu</a></td>
+    </tr>
+    <tr>
+      <td>Zenn</td>
+      <td><a href="https://zenn.dev/kimitsu">kimitsu</a></td>
+    </tr>
+    <tr>
+      <td>SlideShare</td>
+      <td><a href="https://www.slideshare.net/ssusera7cea3">ssusera7cea3</a></td>
+    </tr>
+    <tr>
+      <td>AtCoder</td>
+      <td><a href="https://atcoder.jp/users/kimitsu_emt">kimitsu_emt</a></td>
+    </tr>
+    <tr>
+      <td>HatenaBlog</td>
+      <td><a href="http://dayama-kimitsu.hatenablog.com">kimitsu’s blog</a></td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
