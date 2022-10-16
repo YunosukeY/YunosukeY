@@ -22,16 +22,12 @@
       <td><a href="https://zenn.dev/kimitsu">kimitsu</a></td>
     </tr>
     <tr>
-      <td>SlideShare</td>
-      <td><a href="https://www.slideshare.net/ssusera7cea3">ssusera7cea3</a></td>
+      <td>Speaker Deck</td>
+      <td><a href="https://speakerdeck.com/yunosukey">yunosukey</a></td>
     </tr>
     <tr>
       <td>AtCoder</td>
       <td><a href="https://atcoder.jp/users/kimitsu_emt">kimitsu_emt</a></td>
-    </tr>
-    <tr>
-      <td>HatenaBlog</td>
-      <td><a href="http://dayama-kimitsu.hatenablog.com">kimitsu’s blog</a></td>
     </tr>
   </tbody>
 </table>
