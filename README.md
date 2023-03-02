@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/Bachelor-Engineering-brightgreen?style=flat-square"/>
   <img src="https://img.shields.io/badge/Master-Engineering-brightgreen?style=flat-square"/>
   <img src="https://img.shields.io/badge/Job-Front--end%20Engineer-brightgreen?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Role-Tech%20Lead-brightgreen?style=flat-square"/>
   <br/>
 
   <a href="https://twitter.com/east_k1mitsu">
