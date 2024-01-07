@@ -20,4 +20,9 @@
   <a href="https://atcoder.jp/users/kimitsu_emt">
     <img src="https://img.shields.io/badge/AtCoder-kimitsu__emt-%230000FF?style=flat-square"/>
   </a>
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunosukeY" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YunosukeY&count_private=true&show_icons=true&line_height=40" />
 </div>
